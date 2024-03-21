@@ -1,4 +1,4 @@
-##Information Sharing in Second Price Auctions
+## Information Sharing in Second Price Auctions
 
 Latex code for a research proposal submitted to Ph.D. level Auction Theory class. 
 
