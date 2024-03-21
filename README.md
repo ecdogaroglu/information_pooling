@@ -207,7 +207,7 @@ to explicitly compute the expected revenue. It should be clear without
 calculation that expected price can be greater than the mean and hence
 greater than the common value.
 
-## Alternative Characterization {#alternative-characterization .unnumbered}
+## Alternative Characterization
 
 Main challenge of this research is due to the common value setting,
 where desirable properties of SPA aren't easily accessible. As
