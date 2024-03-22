@@ -1,4 +1,4 @@
-# Information Sharing in Second Price Auctions
+# Information Pooling in Second Price Auctions
 
 
 See the pdf file for a compiled version.
