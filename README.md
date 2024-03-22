@@ -122,7 +122,7 @@ partially reformulated as acquiring the signal with conditional c.d.f.
 $\Phi_k^P$ or $\Phi^I$, where latter is a *mean-preserving spread* of
 the former.
 
-## Bidders' Incentives {#bidders-incentives .unnumbered}
+## Bidders' Incentives
 
 Bidders know about the precision level chosen by the seller and make the
 pool participation decision based on the anticipated precision level of
